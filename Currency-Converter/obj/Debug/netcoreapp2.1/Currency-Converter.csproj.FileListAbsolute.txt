@@ -1,0 +1,11 @@
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/bin/Debug/netcoreapp2.1/Currency-Converter.deps.json
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/bin/Debug/netcoreapp2.1/Currency-Converter.runtimeconfig.json
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/bin/Debug/netcoreapp2.1/Currency-Converter.runtimeconfig.dev.json
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/bin/Debug/netcoreapp2.1/Currency-Converter.dll
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/bin/Debug/netcoreapp2.1/Currency-Converter.pdb
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/obj/Debug/netcoreapp2.1/Currency-Converter.csprojAssemblyReference.cache
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/obj/Debug/netcoreapp2.1/Currency-Converter.csproj.CoreCompileInputs.cache
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/obj/Debug/netcoreapp2.1/Currency-Converter.AssemblyInfoInputs.cache
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/obj/Debug/netcoreapp2.1/Currency-Converter.AssemblyInfo.cs
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/obj/Debug/netcoreapp2.1/Currency-Converter.dll
+/Users/ernestbell/Desktop/Currency-Converter/Currency-Converter/obj/Debug/netcoreapp2.1/Currency-Converter.pdb
